@@ -1,7 +1,7 @@
 About libsemigroups
 ===================
 
-Home: https://libsemigroups.github.io/libsemigroups/
+Home: https://james-d-mitchell.github.io/libsemigroups/
 
 Package license: GPL-3.0
 
@@ -9,7 +9,10 @@ Feedstock license: BSD 3-Clause
 
 Summary: C++ library for semigroups and monoids
 
-libsemigroups is a C++ library for semigroups and monoids.
+libsemigroups is a C++ library for semigroups and monoids; it is partly based on
+[Algorithms for computing finite semigroups](https://www.irif.fr/~jep/PDF/Rio.pdf),
+[Expository Slides](https://www.irif.fr/~jep/PDF/Exposes/StAndrews.pdf), and
+[Semigroupe 2.01](https://www.irif.fr/~jep/Logiciels/Semigroupe2.0/semigroupe2.html) by Jean-Eric Pin.
 
 
 Current build status
